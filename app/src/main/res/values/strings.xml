@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_debug_refresh" translatable="false">Refresh</string>
+
+    <string name="weatherAPIKey">7e9474658b7de6bb08dadbe137d1c738</string>
+</resources>
